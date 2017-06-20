@@ -1,0 +1,16 @@
+Pillow
+Pygments
+ipykernel
+ipython[all]
+jupyter
+jupyter-client
+jupyter-console
+jupyter-core
+matplotlib
+nbconvert
+nbformat
+numpy
+pandas
+path.py
+scipy
+scikit-learn
