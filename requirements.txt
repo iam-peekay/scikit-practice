@@ -6,7 +6,7 @@ jupyter
 jupyter-client
 jupyter-console
 jupyter-core
-matplotlib
+matplotlib==2.0.2
 nbconvert
 nbformat
 numpy
